@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/influenza-infection-secondary-care-bronchitis---secondary.py
+inputModule3:
+  class: File
+  path: python/influenza-infection-secondary-care-unidentified---secondary.py
+inputModule4:
+  class: File
+  path: python/influenza-infection-secondary-care-haemophilus---secondary.py
+inputModule5:
+  class: File
+  path: python/influenza-infection-secondary-care-pneumonia---secondary.py
+inputModule6:
+  class: File
+  path: python/against-influenza-infection-secondary-care---secondary.py
+inputModule7:
+  class: File
+  path: python/influenza-infection-secondary-care-unspecified---secondary.py
+inputModule8:
+  class: File
+  path: python/influenza-infection-secondary-care-sepsis---secondary.py
+inputModule9:
+  class: File
+  path: python/influenza-infection-secondary-care-respiratory---secondary.py
+inputModule10:
+  class: File
+  path: python/influenza---secondary.py
+inputModule11:
+  class: File
+  path: python/influenza-infection-secondary-care-manifestation---secondary.py
+inputModule12:
+  class: File
+  path: python/influenza-infection-secondary-care-novel---secondary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
